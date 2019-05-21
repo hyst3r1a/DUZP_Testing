@@ -1,0 +1,10 @@
+C:\Users\Mishon\source\repos\DUZP_Testing\DUZP_Testing\bin\Debug\DUZP_Testing.exe.config
+C:\Users\Mishon\source\repos\DUZP_Testing\DUZP_Testing\bin\Debug\DUZP_Testing.exe
+C:\Users\Mishon\source\repos\DUZP_Testing\DUZP_Testing\bin\Debug\DUZP_Testing.pdb
+C:\Users\Mishon\source\repos\DUZP_Testing\DUZP_Testing\obj\Debug\DUZP_Testing.csprojAssemblyReference.cache
+C:\Users\Mishon\source\repos\DUZP_Testing\DUZP_Testing\obj\Debug\DUZP_Testing.Form1.resources
+C:\Users\Mishon\source\repos\DUZP_Testing\DUZP_Testing\obj\Debug\DUZP_Testing.Properties.Resources.resources
+C:\Users\Mishon\source\repos\DUZP_Testing\DUZP_Testing\obj\Debug\DUZP_Testing.csproj.GenerateResource.cache
+C:\Users\Mishon\source\repos\DUZP_Testing\DUZP_Testing\obj\Debug\DUZP_Testing.csproj.CoreCompileInputs.cache
+C:\Users\Mishon\source\repos\DUZP_Testing\DUZP_Testing\obj\Debug\DUZP_Testing.exe
+C:\Users\Mishon\source\repos\DUZP_Testing\DUZP_Testing\obj\Debug\DUZP_Testing.pdb
